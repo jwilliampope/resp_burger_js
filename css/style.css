@@ -67,6 +67,8 @@ a {
   background-color: #fff;
 }
 
+/* MQ */
+
 @media (max-width: 786px) {
   .hamburger {
     display: block;
